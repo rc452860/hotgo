@@ -21,7 +21,7 @@ require (
 	github.com/gorilla/websocket v1.5.0
 	github.com/kayon/iploc v0.0.0-20200312105652-bda3e968a794
 	github.com/minio/selfupdate v0.6.0
-	github.com/mojocn/base64Captcha v1.3.5
+	github.com/mojocn/base64Captcha v1.3.6
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/qiniu/go-sdk/v7 v7.14.0
 	github.com/shirou/gopsutil/v3 v3.23.3
@@ -118,11 +118,11 @@ require (
 	go.opentelemetry.io/otel/trace v1.16.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	golang.org/x/crypto v0.11.0 // indirect
-	golang.org/x/image v0.1.0 // indirect
+	golang.org/x/image v0.13.0 // indirect
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	gopkg.in/ini.v1 v1.56.0 // indirect
 	stathat.com/c/consistent v1.0.0 // indirect
